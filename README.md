@@ -33,7 +33,7 @@ printer settings.
 
 * NEMA17 stepper motor
 
-* 1x M3 brass heated insert nut, McMaster 94180A331 - same used for the rest of the Jubilee build.
+* 4x M3 brass heated insert nut, McMaster 94180A331 - same used for the rest of the Jubilee build.
 
 * M3 square nut - same used for the rest of the Jubilee build
 
