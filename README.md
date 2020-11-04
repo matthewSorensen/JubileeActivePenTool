@@ -65,7 +65,9 @@ printer settings.
 
 * 1 set of standard Jubilee tool plate hardware - steel balls, insert nuts, screws, delrin wedge plate etc...
 
-* 1 set of standard Jubilee tool wings and hardware
+* 4x M3x8 flathead screws (Bolt Depot 7213)
+
+* 4x 5x9x2 Buna-N O-rings (McMaster 9262K165)
 
 
 ## Instructions
